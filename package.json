@@ -1,0 +1,20 @@
+{
+  "name": "worlddata",
+  "description": "Detailed data about countries, territories and everything else on this beautiful planet.",
+  "version": "0.0.1",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "map",
+    "worldmap",
+    "country",
+    "svg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:StephanWagner/worldData.git"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "scripts": {}
+}
